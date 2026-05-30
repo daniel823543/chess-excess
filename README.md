@@ -1,4 +1,5 @@
-# Un juego de prueba usando tkinter
+# Descripción
+Un juego de prueba usando tkinter. Se controla un caballo con saltos de ajedrez
 
 
 
