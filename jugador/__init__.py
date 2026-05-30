@@ -1,0 +1,1 @@
+from .jugador import JuegoCazador
